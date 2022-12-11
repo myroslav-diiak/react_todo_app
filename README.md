@@ -1,2 +1,2 @@
-- [DEMO LINK](https://myroslav-diiak.github.io/myBike-landing/)
+- [DEMO LINK](https://myroslav-diiak.github.io/react_todo_app/)
 - Stack: TS, React, React Hooks, Fetch  Queries, SASS
